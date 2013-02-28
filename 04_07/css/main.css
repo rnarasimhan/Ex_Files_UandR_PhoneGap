@@ -1,0 +1,9 @@
+.logo {
+	text-align: center;
+}
+
+.offline {
+	visibility:hidden;
+	font:italic;
+	color:#C00;
+}
